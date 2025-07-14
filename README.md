@@ -19,5 +19,6 @@ We made this project because our origional project, the robotic centipede, was n
 |---|---|---|
 |micro serv0 9g | (x2)| drive and turn the car|
 |orpheus pico | (x1) | control everything|
+| breadboard | (x1) | connect things |
 |jumper wires | (x7) | wire up everything|
 |power bank | x1 | power the board and servos |
