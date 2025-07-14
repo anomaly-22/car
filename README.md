@@ -1,6 +1,7 @@
 # car
 
-# RC car
+# CAD design
+The RC car consists of a simple chassis that uses two servos for power. One turns the car via a rack and pinion in the front, and the other connects to the back via neutral spur gears
 
 <img width="998" height="813" alt="Image" src="https://github.com/user-attachments/assets/1bbc824f-9355-42aa-b2e9-63a3c0db87bc" />
 
