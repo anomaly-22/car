@@ -15,6 +15,9 @@ We made this project because our origional project, the robotic centipede, was n
 4. melt the servo horn to the gear on both areas
 5. Flash the code provided and use the circuitpython motors library
 # BOM
-- micro serv0 9g (x2)
-- orpheus pico (x1)
-- jumper wires (x7)
+| Part | Quantity | Use |
+|---|---|---|
+|micro serv0 9g | (x2)| drive and turn the car|
+|orpheus pico | (x1) | control everything|
+|jumper wires | (x7) | wire up everything|
+|power bank | x1 | power the board and servos |
