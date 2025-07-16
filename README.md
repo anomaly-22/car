@@ -14,12 +14,15 @@ All cad files are in the Car folder
 We made this project because our origional project, the robotic centipede, was not able to be completed due to stepper driver fuckery and the lack of print time. But we were able to take some things we learned writing the code for that project into the creation of this one!
 ## Wiring Diagram
 <img width="1300" height="1075" alt="image" src="https://github.com/user-attachments/assets/f0056428-3f4a-4b12-ad12-389e3846a245" />
+
 ## Basic how to make
+
 1. modify one servo to be continuous
 2. wire the servos as they are in the diagram
 3. GRAB CARDBOARD AND PRAY to make the servos fit
 4. melt the servo horn to the gear on both areas
 5. Flash the code provided and use the circuitpython motors library
+
 # BOM
 
 | Part | Quantity | Use |
