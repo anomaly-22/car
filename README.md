@@ -4,6 +4,7 @@
 
 The current version of the RC car simply attaches the breadboard with all the circuits via hotgue. 
 ![Image](https://github.com/user-attachments/assets/a5708d1f-4ac0-4683-ab2f-47a7304bd330)
+## (Barely) Functioning demo!!!!
 https://youtube.com/shorts/yjE5QCyYBEo?feature=share
 
 
